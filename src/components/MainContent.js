@@ -18,12 +18,15 @@ Nunc pulvinar vulputate pharetra. Vivamus non mattis est. Integer sollicitudin, 
         <article id="mainContent">
             <div className="container">
                 <div className="item">
+                <h2 id="initial-header1">Initial header 1</h2>
                     {sampleText}
                 </div>
                 <div className="item">
+                <h2 id="initial-header2">Initial header 2</h2>
                     {sampleText}
                 </div>
                 <div className="item">
+                <h2 id="initial-header3">Initial header 3</h2>
                     {sampleText}
                 </div>
             </div>
